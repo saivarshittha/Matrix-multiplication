@@ -1,5 +1,5 @@
 				README :
-The files submitted are matmul.c,README.txt,Report.pdf
+The files present are matmul.c,README.txt,Report.pdf
 
 To compile,  I used the following command, “gcc matmul.c -lpthread -o matmul” on terminal
 To run in non interactive mode I used the following command 
